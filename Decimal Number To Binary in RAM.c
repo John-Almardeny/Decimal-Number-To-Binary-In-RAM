@@ -1,3 +1,6 @@
+//Author: Yahya Almardeny
+//Version: 1.0
+// December 2015
 #include<stdio.h>
 #include<stdbool.h>
 #include<math.h>

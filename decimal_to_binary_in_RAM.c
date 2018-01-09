@@ -1,3 +1,6 @@
+//Author: Yahya Almardeny
+// Version: 2.0
+// December 2017
 #include<stdio.h>
 
 #define ARCH 32 
